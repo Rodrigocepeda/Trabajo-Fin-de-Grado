@@ -14,7 +14,6 @@ Referencias
   Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer
   Society Conference on. Vol. 1. IEEE, 2001.
 
-
 - https://countem.unican.es/
 
 - https://github.com/andrewssobral/vehicle_detection_haarcascades
